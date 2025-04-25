@@ -1,4 +1,8 @@
 @import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+@import "tailwindcss";
 /* إذا بدك تضيف أي @layer أو متغيرات: */
 @layer base {
   :root {
